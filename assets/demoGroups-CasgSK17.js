@@ -1,0 +1,1 @@
+const e=[{id:"casa",name:"Casa",description:"Despesas do apartamento",members:3,monthTotal:4359.3,accent:"bg-petrol"},{id:"viagem",name:"Viagem de inverno",description:"Planejamento compartilhado",members:4,monthTotal:1280,accent:"bg-amber"}];export{e as d};

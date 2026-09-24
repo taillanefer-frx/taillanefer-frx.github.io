@@ -1,0 +1,1 @@
+const r={house_split:"Divisão de casa",balance_control:"Controle de saldo"};function s(e,a=!0,o){return a?e==="house_split"?"Minha parte":"Meu saldo":e==="house_split"?`Parte de ${o||"membro"}`:`Saldo de ${o||"membro"}`}export{s as a,r as g};
